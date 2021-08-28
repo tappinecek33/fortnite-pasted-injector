@@ -83,7 +83,7 @@ int main()
 		fnt = FindWindowA(0, "Fortnite  ");
 		Sleep(1);
 	}
-	std::cout << xor ("    process founded!.") << std::endl;
+	std::cout << xor ("    process found!.") << std::endl;
 	std::cout << xor ("    press any key to start process injecting (lobby)") << std::endl;
 	getch();
 
