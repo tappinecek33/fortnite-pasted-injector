@@ -1,5 +1,5 @@
 # fortnite-pasted-injector
-pasted injector for good peoples who cant change a string !! :joy
+pasted injector for good peoples who cant change a string !! :joy:
 
 org src: face-injector
 
